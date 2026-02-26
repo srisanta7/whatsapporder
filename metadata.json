@@ -1,0 +1,5 @@
+{
+  "name": "WhatsApp Shop",
+  "description": "A simple e-commerce application that sends orders via WhatsApp.",
+  "requestFramePermissions": []
+}
